@@ -15,6 +15,7 @@ let average = ((num1+num2+num3+num4+num5)/5)
 if(highest < num2){
     highest = num2    
 }
+
 if( lowest > num2){
     lowest = num2
 }
